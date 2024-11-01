@@ -55,5 +55,3 @@ Claro! Aqui está a versão do seu código HTML com o nome alterado para "Kael C
 
 </html>
 ```
-
-Se precisar de mais alguma coisa ou tiver outras alterações, é só avisar!
